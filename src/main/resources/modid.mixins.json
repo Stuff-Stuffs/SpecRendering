@@ -1,11 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.githug.stuff_stuffs.example.mixin",
+  "package": "io.github.stuff_stuffs.example.common.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
+    "MixinParticleManager",
+    "MixinRenderLayers"
   ],
   "injectors": {
     "defaultRequire": 1

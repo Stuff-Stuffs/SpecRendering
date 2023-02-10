@@ -14,10 +14,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.githug.stuff_stuffs.example.common.ExampleMod"
+      "io.github.stuff_stuffs.example.common.ExampleMod"
     ],
     "client": [
-      "io.githug.stuff_stuffs.example.client.ExampleModClient"
+      "io.github.stuff_stuffs.example.client.ExampleModClient"
     ]
   },
   "mixins": [
